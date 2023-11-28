@@ -1,0 +1,13 @@
+{
+    "event_type": "seminar",
+    "event": [
+        {
+            "event_title": "Stock Management Seminar",
+            "event_date": "30th November",
+            "event_location": "Lakshmi Auditorium",
+            "event_time": "06:00 pm",
+            "event_audience": "Business owners, Stock managers, Inventory managers",
+            "event_link": "https://example.com/stock-management-seminar"
+        }
+    ]
+}
