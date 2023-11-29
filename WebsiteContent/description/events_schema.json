@@ -1,0 +1,51 @@
+{
+    "name": "get_event_data",
+    "parameters": {
+        "type": "object",
+        "properties": {
+            "event_type": {
+                "type": "string"
+            },
+            "event": {
+                "type": "array",
+                "items": {
+                    "type": "object",
+                    "properties": {
+                        "event_title": {
+                            "type": "string"
+                        },
+                        "event_date": {
+                            "type": "string",
+                            "format": "date-time"
+                        },
+                        "event_location": {
+                            "type": "string"
+                        },
+                        "event_time": {
+                            "type": "string"
+                        },
+                        "event_audience": {
+                            "type": "string"
+                        },
+                        "event_link": {
+                            "type": "string",
+                            "format": "uri"
+                        }
+                    },
+                    "required": [
+                        "event_title",
+                        "event_date",
+                        "event_location",
+                        "event_time",
+                        "event_audience",
+                        "event_link"
+                    ]
+                }
+            }
+        },
+        "required": [
+            "event_type",
+            "event"
+        ]
+    }
+}
