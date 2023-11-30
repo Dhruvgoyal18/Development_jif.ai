@@ -1,0 +1,84 @@
+{
+    "ChainOfEvents": [
+        {
+            "topicNumber": 1,
+            "topicTitle": "1. Introduction to stock management"
+        },
+        {
+            "topicNumber": 2,
+            "topicTitle": "2. Importance of efficient stock management"
+        },
+        {
+            "topicNumber": 3,
+            "topicTitle": "3. Factors affecting stock management"
+        },
+        {
+            "topicNumber": 4,
+            "topicTitle": "4. Inventory control techniques"
+        },
+        {
+            "topicNumber": 5,
+            "topicTitle": "5. Determining optimum stock levels"
+        },
+        {
+            "topicNumber": 6,
+            "topicTitle": "6. Forecasting future demand"
+        },
+        {
+            "topicNumber": 7,
+            "topicTitle": "7. Inventory categorization and classification"
+        },
+        {
+            "topicNumber": 8,
+            "topicTitle": "8. Stock tracking and monitoring systems"
+        },
+        {
+            "topicNumber": 9,
+            "topicTitle": "9. Stock replenishment strategies"
+        },
+        {
+            "topicNumber": 10,
+            "topicTitle": "10. Just-in-time (JIT) inventory management"
+        },
+        {
+            "topicNumber": 11,
+            "topicTitle": "11. Vendor management and supplier relationships"
+        },
+        {
+            "topicNumber": 12,
+            "topicTitle": "12. Managing stock for multiple locations"
+        },
+        {
+            "topicNumber": 13,
+            "topicTitle": "13. Stock valuation methods"
+        },
+        {
+            "topicNumber": 14,
+            "topicTitle": "14. Cost optimization in stock management"
+        },
+        {
+            "topicNumber": 15,
+            "topicTitle": "15. Dealing with stock obsolescence"
+        },
+        {
+            "topicNumber": 16,
+            "topicTitle": "16. Stock audits and cycle counting"
+        },
+        {
+            "topicNumber": 17,
+            "topicTitle": "17. Handling stock discrepancies"
+        },
+        {
+            "topicNumber": 18,
+            "topicTitle": "18. Risk management in stock management"
+        },
+        {
+            "topicNumber": 19,
+            "topicTitle": "19. Technology and automation in stock management"
+        },
+        {
+            "topicNumber": 20,
+            "topicTitle": "20. Best practices and case studies"
+        }
+    ]
+}
