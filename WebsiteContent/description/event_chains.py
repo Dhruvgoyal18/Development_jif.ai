@@ -27,7 +27,7 @@ def event_chains(event_data):
     event_link = event_details['event_link']
 
     # generated_events = []
-    prompt_events = f"Generate the lists about of chain of events/Topics or Discussion Points for the {event_title} of the {event_type} in form of points, and No subpoints to included."
+    prompt_events = f"Generate a list outlining 4-5 main discussion points or topics for the {event_title} for the {event_type} without any subpoints under each main point. The topics should form a chain of events or cohesive discussion areas related to the event's theme or focus."
 
     response = openai.ChatCompletion.create(
         model="gpt-3.5-turbo",

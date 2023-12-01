@@ -1,0 +1,37 @@
+[
+    {
+        "date": "2023-12-01",
+        "time": "09:00 AM",
+        "topicNumber": 1,
+        "topicTitle": "1. Introduction to Stock Management",
+        "description": "Discussion and insights on 1. Introduction to Stock Management. This session covers key concepts, strategies, and best practices."
+    },
+    {
+        "date": "2023-12-01",
+        "time": "10:15 AM",
+        "topicNumber": 2,
+        "topicTitle": "2. Strategies for Effective Stock Management",
+        "description": "Discussion and insights on 2. Strategies for Effective Stock Management. This session covers key concepts, strategies, and best practices."
+    },
+    {
+        "date": "2023-12-01",
+        "time": "11:30 AM",
+        "topicNumber": 3,
+        "topicTitle": "3. Inventory Control Techniques",
+        "description": "Discussion and insights on 3. Inventory Control Techniques. This session covers key concepts, strategies, and best practices."
+    },
+    {
+        "date": "2023-12-01",
+        "time": "12:45 PM",
+        "topicNumber": 4,
+        "topicTitle": "4. Automation and Technology in Stock Management",
+        "description": "Discussion and insights on 4. Automation and Technology in Stock Management. This session covers key concepts, strategies, and best practices."
+    },
+    {
+        "date": "2023-12-01",
+        "time": "02:00 PM",
+        "topicNumber": 5,
+        "topicTitle": "5. Forecasting and Demand Planning",
+        "description": "Discussion and insights on 5. Forecasting and Demand Planning. This session covers key concepts, strategies, and best practices."
+    }
+]
